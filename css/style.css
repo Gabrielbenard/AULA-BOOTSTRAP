@@ -1,0 +1,28 @@
+ body{
+     font: 15px arial;
+ }
+ 
+ .navbar {
+     background-color: forestgreen;
+ }   
+ .gama{
+     margin-top: 20px;
+     padding-bottom: 50px;
+     padding-top: 10px;
+     background-color: rgb(132, 190, 188);
+     margin-bottom: 20px;
+ }
+
+ .parceiros{
+     background-color: steelblue;
+     padding-bottom: 30px;
+ }
+ .container2{
+     font-size: 30px;
+    
+ }
+ .bg-footer{
+     background-color: gray;
+     color:white ;
+     padding-bottom: 30px;
+ }
